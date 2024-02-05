@@ -1,0 +1,100 @@
+.jiejing {
+    background-color: white; /* 设置背景颜色为白色 */
+    overflow: hidden; /* 隐藏超出边框的内容 */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.jiejing img {
+    max-width: 100%; /* 设置图标最大宽度为80%，可根据需要调整 */
+    max-height: 100%; /* 设置图标最大高度为80%，可根据需要调整 */
+    border-radius: 5px; /* 设置图标的圆润边角，与按钮一致 */
+}
+
+.jiejing:hover {
+    background-color: #f0f0f0; /* 悬停时的背景色，可以根据需要调整 */
+    cursor: pointer; /* 鼠标悬停时显示手型指示器 */
+}
+
+.jiejing {
+    display: block;
+    text-align: center;
+    font-size: 12px; /* 文字描述的字体大小，可以根据需要调整 */
+}
+
+
+
+
+
+
+
+
+
+.menuBar {
+    width: 30px; /* 调整按钮的宽度*/ 
+    height: 30px; /* 调整按钮的高度 */
+    background-color: white; /* 设置背景颜色为白色 */
+    overflow: hidden; /* 隐藏超出边框的内容 */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menuBar img {
+    max-width: 100%; /* 设置图标最大宽度为80%，可根据需要调整 */
+    max-height: 100%; /* 设置图标最大高度为80%，可根据需要调整 */
+    border-radius: 5px; /* 设置图标的圆润边角，与按钮一致 */
+}
+
+.menuBar:hover {
+    background-color: #f0f0f0; /* 悬停时的背景色，可以根据需要调整 */
+    cursor: pointer; /* 鼠标悬停时显示手型指示器 */
+}
+
+.menuBar {
+    display: block;
+    text-align: center;
+    font-size: 12px; /* 文字描述的字体大小，可以根据需要调整 */
+}
+
+
+
+
+
+
+
+
+
+
+.iss-locator-button {
+    /*position: absolute !important;*/
+    /*top: 220px !important;*/
+    /*left: 0px !important;*/
+    width: 30px; /* 调整按钮的宽度*/ 
+    height: 30px; /* 调整按钮的高度 */
+    background-color: white; /* 设置背景颜色为白色 */
+    border: 2px solid #ccc; /* 设置边框 */
+    border-radius: 5px; /* 设置圆润的边角，可以根据需要调整数值 */
+    overflow: hidden; /* 隐藏超出边框的内容 */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.iss-locator-button img {
+    max-width: 75%; /* 设置图标最大宽度为80%，可根据需要调整 */
+    max-height: 75%; /* 设置图标最大高度为80%，可根据需要调整 */
+    border-radius: 5px; /* 设置图标的圆润边角，与按钮一致 */
+}
+
+.iss-locator-button:hover {
+    background-color: #f0f0f0; /* 悬停时的背景色，可以根据需要调整 */
+    cursor: pointer; /* 鼠标悬停时显示手型指示器 */
+}
+
+.icon-description {
+    display: block;
+    text-align: center;
+    font-size: 12px; /* 文字描述的字体大小，可以根据需要调整 */
+}
